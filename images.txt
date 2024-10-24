@@ -1,4 +1,1 @@
-wallabag/wallabag
---platform linux/amd64 wallabag/wallabag
---platform 	linux/arm/v7 wallabag/wallabag
---platform 	linux/arm/v8 wallabag/wallabag
+syncthing/syncthing
