@@ -1,3 +1,4 @@
---platform=linux/arm64 linuxserver/jellyfin
---platform linux/amd64 nyanmisaka/jellyfin
---platform linux/amd64 linuxserver/jellyfin
+--platform=linux/arm64 johngong/baidunetdisk
+--platform linux/amd64 johngong/baidunetdisk
+--platform=linux/arm64 xhofe/alist
+--platform linux/amd64 xhofe/alist
