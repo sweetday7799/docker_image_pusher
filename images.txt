@@ -1,4 +1,4 @@
---platform=linux/arm64 johngong/baidunetdisk
---platform linux/amd64 johngong/baidunetdisk
---platform=linux/arm64 xhofe/alist
---platform linux/amd64 xhofe/alist
+--platform=linux/arm64 linuxserver/homeassistant:2023.11.3
+--platform linux/amd64 linuxserver/homeassistant:2023.11.3
+--platform=linux/arm64 linuxserver/homeassistant
+--platform linux/amd64 linuxserver/homeassistant
