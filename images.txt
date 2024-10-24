@@ -1,2 +1,5 @@
 --platform=linux/arm64 syncthing/syncthing
 --platform linux/amd64 syncthing/syncthing
+--platform=linux/arm64 wallabag/wallabag
+--platform=linux/arm64 amtoaer/bili-sync-rs
+--platform linux/amd64 amtoaer/bili-sync-rs
