@@ -1,4 +1,2 @@
---platform=linux/arm64 linuxserver/homeassistant:2023.11.3
---platform linux/amd64 linuxserver/homeassistant:2023.11.3
---platform=linux/arm64 linuxserver/homeassistant
---platform linux/amd64 linuxserver/homeassistant
+--platform=linux/arm64 nas-tools:2.9.1
+--platform linux/amd64 nas-tools:2.9.1
